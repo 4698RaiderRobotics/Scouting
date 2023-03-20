@@ -1,4 +1,4 @@
-#const scriptURL = 'https://script.google.com/macros/s/AKfycbyr8woNmi1zLBQkzC52Wl92rTT9RO5lxsAIYQxcXJ30ITt6JRKr-tdKwZXwe-524v6i/exec';
+//const scriptURL = 'https://script.google.com/macros/s/AKfycbyr8woNmi1zLBQkzC52Wl92rTT9RO5lxsAIYQxcXJ30ITt6JRKr-tdKwZXwe-524v6i/exec';
 const scriptURL = 'https://script.google.com/macros/s/AKfycbzuLGx7wOq05YGq_TpkQ0YoVQNWEtdca5A1vlFNVqRqPMeGZj6D4Vh5wKNgf0pT98im/exec';
 /**
  * Handling the onclick for adding to the game piece count
